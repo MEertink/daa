@@ -1,3 +1,9 @@
+---
+layout: default
+title: "First Markdown""
+rank: 1
+---
+
 # **Header**
 ## _Smaller header_
 ### ~~Even smaller header~~
